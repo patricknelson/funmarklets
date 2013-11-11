@@ -1,4 +1,4 @@
-# Funmarkets! #
+# Funmarklets! #
 ## Image Placeholder Bookmarklets ##
 
 **To use these bookmarklets**, either:
