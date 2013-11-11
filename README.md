@@ -3,7 +3,7 @@
 
 **To use these bookmarklets**:
 
-- Click here and drag/drop the links for the bookmarlets you want to use.
+- **[Click here](https://rawgithub.com/patricknelson/funmarklets/master/bookmarklets.html)** and drag/drop the links for the bookmarlets you want to use.
 - Go to [http://google.com](http://google.com), add it to your bookmarks bar, edit that bookmark and then copy the code below and paste it into the URL.
 
 ## Nicholas Cage ##
