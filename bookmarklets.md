@@ -13,7 +13,7 @@ Drag and drop to bookmarks bar: **[Cage-ify]( javascript:(function(){var%20cages
     javascript:(function(){var%20cages=function(){for(var%20b=document.images,a=0;a%20%3C%20b.length;a++){var%20c=b[a].width,d=b[a].height;if(c%20%26%26%20d)b[a].src='http://placecage.com/'+c+'/'+d}return%20false};cages();})();
 
 
-## Martin Sheen ##
+## Charlie Sheen ##
 
 Drag and drop to bookmarks bar: **[Sheen-it](javascript:(function(){var%20sheens=function(){for(var%20b=document.images,a=0;a%20%3C%20b.length;a++){var%20c=b[a].width,d=b[a].height;if(c%20%26%26%20d)b[a].src='http://placesheen.com/'+c+'/'+d}return%20false};sheens();})();)**
 
