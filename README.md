@@ -3,9 +3,8 @@
 
 **To use these bookmarklets**:
 
+- Click here and drag/drop the links for the bookmarlets you want to use.
 - Go to [http://google.com](http://google.com), add it to your bookmarks bar, edit that bookmark and then copy the code below and paste it into the URL.
-
-**TODO:** Need to find better way to add drag/drop capability to bookmarks bar from README.md.
 
 ## Nicholas Cage ##
 
